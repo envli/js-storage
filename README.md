@@ -1,4 +1,4 @@
-# js-storage
+# JS storage
 
 A simple JS function that manages your web browser storage.
 
@@ -27,3 +27,7 @@ Remove value
 ```js
 storage('key', null, true)
 ```
+
+## MIT
+
+[MIT](http://opensource.org/licenses/MIT)
