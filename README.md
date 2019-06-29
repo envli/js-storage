@@ -1,4 +1,4 @@
-# JS storage
+# Storage JS
 
 A simple JS function that manages your web browser storage.
 
